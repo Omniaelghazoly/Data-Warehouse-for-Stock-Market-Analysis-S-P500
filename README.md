@@ -11,16 +11,17 @@
 - Investing Metrics: Represent stock investing metrics for each company and its industry.
 - Sector Comparisons: Compare sectors based on selected KPIs.
 - Meta Platforms Case Study: Analyze the reasons behind Meta Platforms' stock drop and present findings.
+  
 **Project Milestones:**
-**Data Collection:**
+- **Data Collection:**
 Sourced data from Kaggle, Yahoo Finance, and Wikipedia.
-**Data Cleaning, Analysis, and Exploration:**
+- **Data Cleaning, Analysis, and Exploration:**
 Utilized Excel and Python for data cleaning, analysis, and exploration.
-**Data Modeling:**
+- **Data Modeling:**
 Created a galaxy schema in SQL Server Management Studio to model the data effectively.
-**Analytical SQL Queries:**
+- **Analytical SQL Queries:**
 Developed and executed complex SQL queries for in-depth analysis.
-**Dashboard Development:**
+- **Dashboard Development:**
 Used Microsoft Power BI to create an interactive and insightful dashboard.
 By systematically working through these milestones, we were able to develop a robust and insightful dashboard that serves as a powerful tool for investors, enabling them to monitor the market, evaluate companies, and make well-informed investment decisions.
 
