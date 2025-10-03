@@ -30,19 +30,19 @@ By systematically working through these milestones, we were able to develop a ro
 [ View on NovyPro](https://project.novypro.com/NLtSsC)
 
 ### Daily Monitoring
-![Daily Monitoring Screenshot](dailyMonitoring.png)
+![Daily Monitoring Screenshot](dailyMonitoring.PNG)
 
 ###  Tracking
-![Tracking Screenshot](Tracking.png)
+![Tracking Screenshot](Tracking.PNG)
 
 ###  Company Tracking
-![Company Tracking Screenshot](Companytracking.png)
+![Company Tracking Screenshot](Companytracking.PNG)
 
 ###  Sector Comparison
-![Sector Comparison Screenshot](Sectorcomparison.png)
+![Sector Comparison Screenshot](Sectorcomparison.PNG)
 
 ###  Meta Case Study
-![Meta Case Study Screenshot](metacasestudy.png)
+![Meta Case Study Screenshot](metacasestudy.PNG)
 
 
 
