@@ -25,3 +25,8 @@ Developed and executed complex SQL queries for in-depth analysis.
 Used Microsoft Power BI to create an interactive and insightful dashboard.
 By systematically working through these milestones, we were able to develop a robust and insightful dashboard that serves as a powerful tool for investors, enabling them to monitor the market, evaluate companies, and make well-informed investment decisions.
 
+## Interactive Dashboard
+https://project.novypro.com/NLtSsC
+(daily_monitoring.png)
+(Tracking.png)
+(Sectorcomparison.png)
