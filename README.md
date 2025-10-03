@@ -27,6 +27,6 @@ By systematically working through these milestones, we were able to develop a ro
 
 ## Interactive Dashboard
 https://project.novypro.com/NLtSsC
-(daily_monitoring.png)
-(Tracking.png)
-(Sectorcomparison.png)
+![Daily Monitoring](daily_monitoring.png)
+![Tracking](Tracking.png)
+![Sector Comparison](Sectorcomparison.png)
