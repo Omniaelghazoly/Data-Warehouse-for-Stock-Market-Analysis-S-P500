@@ -26,17 +26,24 @@ Used Microsoft Power BI to create an interactive and insightful dashboard.
 By systematically working through these milestones, we were able to develop a robust and insightful dashboard that serves as a powerful tool for investors, enabling them to monitor the market, evaluate companies, and make well-informed investment decisions.
 
 ## Interactive Dashboard
-https://project.novypro.com/NLtSsC
 
-![Daily Monitoring](dailyMonitoring.png)
+[ View on NovyPro](https://project.novypro.com/NLtSsC)
 
-![Tracking](Tracking.png)
+### Daily Monitoring
+![Daily Monitoring Screenshot](dailyMonitoring.png)
 
-![Sector Comparison](Sectorcomparison.png)
+###  Tracking
+![Tracking Screenshot](Tracking.png)
 
-![company Traccking](Companytracking.png)
+###  Company Tracking
+![Company Tracking Screenshot](Companytracking.png)
 
-![Meta case Study](Metacasestudy.png)
+###  Sector Comparison
+![Sector Comparison Screenshot](Sectorcomparison.png)
+
+###  Meta Case Study
+![Meta Case Study Screenshot](metacasestudy.png)
+
 
 
 
