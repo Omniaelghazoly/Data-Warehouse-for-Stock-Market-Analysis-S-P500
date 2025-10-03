@@ -42,7 +42,7 @@ By systematically working through these milestones, we were able to develop a ro
 ![Sector Comparison Screenshot](Sectorcomparison.PNG)
 
 ###  Meta Case Study
-![Meta Case Study Screenshot](metacasestudy.PNG)
+![Meta Case Study Screenshot](Metacasestudy.PNG)
 
 
 
